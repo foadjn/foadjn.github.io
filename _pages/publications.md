@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+- Behrooz Zarebavani, **Foad Jafarinejad**, Matin Hashemi, and Saber Salehkaleybar. "[cuPC: CUDA-based Parallel PC Algorithm for Causal Structure Learning on GPU](https://ieeexplore.ieee.org/document/8823064)." *IEEE transactions on Parallel and Distributed Systems*, 31(3):530–542,  2019. Also, [arXiv 1812.08491](https://arxiv.org/abs/1812.08491)
